@@ -2,7 +2,7 @@
   "name": "chat-app",
   "version": "1.0.0",
   "description": "A simple chat application with user registration and authentication using Node.js, Express, and MySQL.",
-  "main": "server/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
